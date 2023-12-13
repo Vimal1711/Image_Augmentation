@@ -2,9 +2,13 @@ Image Augmentation is the technique that can artificially enlarge the diversity 
 to variants that may occur in real-world data. It includes making minor changes to the dataset or using deep learning to generate new data points.
 
 Need of Augmentation:
+
 1.To prevent models from overfitting.
+
 2.The initial training set is too small.
+
 3.To improve the model accuracy.
+
 4.To Reduce the operational cost of labeling and cleaning the raw dataset.
 
 There are vareity of Image Augmentation techniques some of them are:
