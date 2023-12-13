@@ -8,7 +8,7 @@ Need of Augmentation:
 3.To improve the model accuracy.  
 4.To Reduce the operational cost of labeling and cleaning the raw dataset.
 
-There are vareity of Image Augmentation techniques some of them are:
+There are variety of Image Augmentation techniques some of them are:
 1. Geometric transformations: randomly flip, crop, rotate, stretch, and zoom images. You need to be careful about applying multiple transformations on the same images, as this can reduce model performance. 
 2. Color space transformations: randomly change RGB color channels, contrast, and brightness.
 3. Kernel filters: randomly change the sharpness or blurring of the image.
